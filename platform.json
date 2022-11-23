@@ -83,8 +83,7 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~3.40402.0"
+      "version": "https://github.com/espressif/esp-idf.git"
     },
     "tool-esptoolpy": {
       "type": "uploader",
