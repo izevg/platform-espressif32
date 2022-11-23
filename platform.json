@@ -1,6 +1,6 @@
 {
-  "name": "espressif32be",
-  "title": "Espressif 32 - Bleeding Edge",
+  "name": "espressif32",
+  "title": "Espressif 32",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "homepage": "https://espressif.com/",
   "license": "Apache-2.0",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/platformio/platform-espressif32.git"
   },
-  "version": "5.2.1",
+  "version": "5.2.0-idf4.4.3",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoespressif32",
